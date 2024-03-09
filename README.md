@@ -1,6 +1,8 @@
 # WrappingHStack
 
-WrappingHStack is an nmplementation of SwiftUI `Layout` that works similar to HStack but moves elements to the next line automatically when they don't fit the current row.
+WrappingHStack is an implementation of SwiftUI `Layout` that works similar to HStack but moves elements to the next line automatically when they don't fit the current row.
+
+**iOS 16 +**
 
 <img src="https://github.com/luquanlang/wrapping-hstack/assets/45352151/711ee303-4874-4b1b-80b8-e6620efd845d" width="350"/>
 
